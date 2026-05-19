@@ -1,4 +1,8 @@
-body {background-color:darkolivegreen;
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color:darkolivegreen;
 }
 
 img:hover {
@@ -9,4 +13,3 @@ h2 {
 	color: white;
 	text-decoration: underline;
 }
-
